@@ -20,5 +20,5 @@ function test_prime(n)
     return true;  
   }
 }
-
+// input number to check
 console.log(test_prime());
