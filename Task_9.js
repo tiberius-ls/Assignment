@@ -6,5 +6,5 @@ isPalindrome = (string) => {
         console.log('is not palindrome');
     }
 }
-
-isPalindrome('noon')
+//input a string to check
+isPalindrome()
