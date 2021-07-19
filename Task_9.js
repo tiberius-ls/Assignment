@@ -1,9 +1,9 @@
 isPalindrome = (string) => {
     if (string === string.split('').reverse().join('')) {
-        console.log('is palindrome');
+        console.log('it is a palindrome');
     }
     else {
-        console.log('is not palindrome');
+        console.log('it is not a palindrome');
     }
 }
 //input a string to check
